@@ -13,5 +13,5 @@
     echo "<html>";
     echo "Thank you for visiting FYICenter.com.<br>";
     echo " <a href=login.php>Login Again.</a><br>";
-    echo "(/html><br>";
+    echo "</html><br>";
 ?>
