@@ -8,5 +8,5 @@
     $myColor = $_SESSION["myColor"];
     echo "Value of myColor has been retrieved: ".$myColor."\n";
 
-    echo "</html>\n"
+    echo "</html>\n";
 ?>
